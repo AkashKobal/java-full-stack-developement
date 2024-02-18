@@ -31,22 +31,6 @@ This advanced-level repository equips learners with the necessary skills to exce
 - Spring Boot Restful API
 - JavaScript
 
-## 🎓 Skills Developed
-1. **An attitude of inquiry**
-2. **Confidence and ability to tackle new problems**
-3. **Ability to interpret events and results**
-4. **Ability to work as a leader and as a member of a team**
-5. **Assess errors in systems/processes/programs/computations and eliminate them**
-6. **Observe and measure physical phenomena**
-7. **Write reports**
-8. **Select suitable equipment, instruments, materials & software**
-9. **Locate faults in systems/processes/software**
-10. **Manipulative skills for setting and handling systems/process/issues**
-11. **The ability to follow standard/legal procedures**
-12. **An awareness of Professional Ethics**
-13. **Need to observe safety/general precautions**
-14. **To judge magnitudes/results/issues without actual measurement/actual contacts**
-
 ## Repository Overview
 ### Java Fundamentals
 
