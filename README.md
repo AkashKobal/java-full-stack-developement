@@ -31,22 +31,6 @@ This advanced-level repository equips learners with the necessary skills to exce
 - Spring Boot Restful API
 - JavaScript
 
-## 🎓 Skills Developed
-1. **An attitude of inquiry**
-2. **Confidence and ability to tackle new problems**
-3. **Ability to interpret events and results**
-4. **Ability to work as a leader and as a member of a team**
-5. **Assess errors in systems/processes/programs/computations and eliminate them**
-6. **Observe and measure physical phenomena**
-7. **Write reports**
-8. **Select suitable equipment, instruments, materials & software**
-9. **Locate faults in systems/processes/software**
-10. **Manipulative skills for setting and handling systems/process/issues**
-11. **The ability to follow standard/legal procedures**
-12. **An awareness of Professional Ethics**
-13. **Need to observe safety/general precautions**
-14. **To judge magnitudes/results/issues without actual measurement/actual contacts**
-
 ## Repository Overview
 ### Java Fundamentals
 
@@ -124,19 +108,5 @@ This advanced-level repository equips learners with the necessary skills to exce
 - Acquire a strong foundation in object-oriented programming, covering core concepts, method parameters, return types, arrays, collections, and debugging.
 - Implement sessions in JSP for efficient web application management.
 - Apply a wide range of concepts to projects, allowing you to practice and reinforce your new skills.
-
-**Textbook:**
-   - [The Full Stack Developer: Your Essential Guide to the Everyday Skills Expected of a Modern Full Stack Web Developer](https://www.amazon.in/Full-Stack-Developer-Essential-Everyday/dp/1484241517) - This book comprehensively covers the skills and knowledge required for modern full-stack web development [[link](https://www.amazon.in/Full-Stack-Developer-Essential-Everyday/dp/1484241517)].
-
-**Reference Link:**
-   - [The Full Stack Developer: Your Essential Guide - O'Reilly](https://www.oreilly.com/library/view/the-full-stack/9781484241523/) - An essential resource providing in-depth insights into the everyday skills expected of a modern full-stack web developer [[link](https://www.oreilly.com/library/view/the-full-stack/9781484241523/)].
-
-## 🌐 Sources
-1. [Amazon.in - Buy The Full Stack Developer: Your Essential Guide to ...](https://www.amazon.in/Full-Stack-Developer-Essential-Everyday/dp/1484241517)
-2. [Academia.edu - The Full Stack Developer Your Essential Guide to ...](https://www.academia.edu/40632537/The_Full_Stack_Developer_Your_Essential_Guide_to_the_Everyday_Skills_Expected_of_a_Modern_Full_Stack_Web_Developer_Chris_Northwood)
-3. [O'Reilly - The Full Stack Developer: Your Essential Guide ...](https://www.oreilly.com/library/view/the-full-stack/9781484241523/)
-4. [Amazon.in - Buy The Full Stack Developer: Your Essential Guide to ...](https://p-yo-www-amazon-in-kalias.amazon.in/Full-Stack-Developer-Essential-Everyday/dp/1484247493)
-5. [O'Reilly - 6. Front End - The Full Stack Developer](https://www.oreilly.com/library/view/the-full-stack/9781484241523/html/471976_1_En_6_Chapter.xhtml)
-6. [LinkedIn - Mastering the Full Stack - A Comprehensive Guide for ...](https://www.linkedin.com/pulse/mastering-full-stack-comprehensive-guide-modern-developers)
 
 This README serves as a comprehensive guide for learners enrolled in the repository, outlining the curriculum's objectives, technologies covered, and skills developed throughout the program.
