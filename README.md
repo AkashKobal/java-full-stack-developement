@@ -8,7 +8,7 @@ This advanced-level repository equips learners with the necessary skills to exce
 2. Collection framework by using Collection [Click](https://github.com/AkashKobal/java-full-stack-developement/tree/main/Collection%20framework%20by%20using%20Collection)
 
 ## What you'll learn  
-- Build a fully functioning web application through a simplistic step from a professional trainer<br>
+- Build a fully functioning web application through a simplistic step from a professional trainer<br>  
 - Java programming language 
 - Learn Java server pages, servlets, and JSTL from the basics to advance
 - Understand building web forms with JSP  
