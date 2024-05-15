@@ -14,7 +14,7 @@ This advanced-level repository equips learners with the necessary skills to exce
 - Learn Java server pages, servlets, and JSTL from the basics to advance
 - Understand building web forms with JSP  
 - Apply validations on the forms
-- Use the web template to make the web application incredible
+- Use the web template to make the web application incredible 
 - Create-Deploy Servlets & Understand Servlet Lifecycle 
 - Learn how to Handle Session in JSP
 - Develop Dynamic Web Applications
