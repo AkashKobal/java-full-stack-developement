@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jakarta.ee/xml/ns/jakartaee" xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_5_0.xsd" version="5.0">
+  <servlet>
+    <description></description>
+    <display-name>InsertData</display-name>
+    <servlet-name>InsertData</servlet-name>
+    <servlet-class>InsertData.InsertData</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>InsertData</servlet-name>
+    <url-pattern>/InsertData</url-pattern>
+  </servlet-mapping>
+  <display-name>labsheet5</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+  <servlet>
+    <description></description>
+    <display-name>DispData</display-name>
+    <servlet-name>DispData</servlet-name>
+    <servlet-class>DispData.DispData</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>DispData</servlet-name>
+    <url-pattern>/DispData</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>InsertDataa</display-name>
+    <servlet-name>InsertDataa</servlet-name>
+    <servlet-class>InsertDataa.InsertDataa</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>InsertDataa</servlet-name>
+    <url-pattern>/InsertDataa</url-pattern>
+  </servlet-mapping>
+</web-app>
